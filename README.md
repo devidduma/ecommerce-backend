@@ -2,6 +2,12 @@
 
 E-Commerce application backend for online shopping of books, coffee mugs, mouse pads and luggage tags.
 
+### Frontend module
+
+This project is the backend module.
+
+The frontend module that consumes the API of this backend can be found under [devidduma/ecommerce-frontend](https://github.com/devidduma/ecommerce-frontend).
+
 ### Backend API
 
 1. Run the project in your favourite IDE.
