@@ -1,4 +1,4 @@
-# E-Commerce
+# E-Commerce Backend
 
 E-Commerce application backend for online shopping of books, coffee mugs, mouse pads and luggage tags.
 
